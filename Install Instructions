@@ -1,0 +1,7 @@
+The program is written in python and is best used within a conda environment
+
+Install the enviroment dependencies by running:
+
+conda env create -f environment.yaml
+
+Then explore the Example jupyter notebook and codes.
