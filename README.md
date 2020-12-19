@@ -11,7 +11,7 @@ Keywords: Solidification, nucleation, machine learning, sinogram, x-ray tomograp
 
 ## Installation
 
-Install the enviroment dependencies by running:
+Install the conda enviroment dependencies by running:
 
 ```python
 $ conda env create -f environment.yaml
@@ -19,8 +19,7 @@ $ conda env create -f environment.yaml
 
 ## Usage
 
-Explore the Example.ipynb jupyter notebook to get started. 
-Data is available on [Dropbox](https://www.dropbox.com/sh/33jvy07mds3tkee/AAAze7eCLUJi-P-cKe7Il2T8a?dl=0). Full datasets are available as well. The first case study regarding quasicrystal formation is available through the [Materials Data Facility repository](https://petreldata.net/mdf/detail/pub_40_han_probing_v1.2). The second case study regarding primary silicon formation in chemically-modified alloy is available through the [University of Michigan Deep Blue repository](https://doi.org/10.7302/812m-d307).
+Explore the Example.ipynb jupyter notebook to get started. The sinogram data used in the example is available on [Dropbox](https://www.dropbox.com/sh/33jvy07mds3tkee/AAAze7eCLUJi-P-cKe7Il2T8a?dl=0). Full datasets are available as well. The first case study regarding quasicrystal formation is available through the [Materials Data Facility repository](https://petreldata.net/mdf/detail/pub_40_han_probing_v1.2). The second case study regarding primary silicon formation in chemically-modified alloy is available through the [University of Michigan Deep Blue repository](https://doi.org/10.7302/812m-d307).
 
 ## Simulation
 
@@ -28,5 +27,3 @@ The Matlab codes to simulate the phantoms are as also available.
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
