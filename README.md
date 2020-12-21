@@ -23,7 +23,7 @@ Explore the Example.ipynb jupyter notebook to get started. The sinogram data use
 
 ## Simulation
 
-The Matlab codes to simulate the phantoms are as also available.
+The Matlab codes to simulate the phantoms are also available.
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
